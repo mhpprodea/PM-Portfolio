@@ -11,7 +11,7 @@ Developed an AI tool that transforms raw customer feedback into structured insig
 
 3. HYSA Optimizer  (case study) https://mhpprodea.github.io/hysa-optimizer/
 
-A consumer fintech tool that shows people exactly how much money they lose by keeping savings in a low-yield account. Built, tested, and iterated in under a week.
+A consumer fintech tool that shows people exactly how much money they lose by keeping savings in a low-yield account. 
 
 4. My Wander Moments https://mywandermoments.com/
 
